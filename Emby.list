@@ -16,8 +16,8 @@
 DOMAIN,v4.baey.top
 
 # > 论坛
-DOMAIN,52pojie.cn    #52破解
-DOMAIN,mcbbs.net     #mcbbs
+DOMAIN,52pojie.cn
+DOMAIN,mcbbs.net
 
 # > CDN
-DOMAIN,blogcdn.net   #blogcdn
+DOMAIN,blogcdn.net
