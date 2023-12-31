@@ -21,3 +21,6 @@ DOMAIN,mcbbs.net   #mcbbs
 
 # > CDN
 DOMAIN,blogcdn.net  #免费CDN
+
+# > 加速
+DOMAIN,ghproxy.com  #Github代理加速
