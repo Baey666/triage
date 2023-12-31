@@ -14,3 +14,10 @@
 
 # > 个人网站
 DOMAIN,v4.baey.top,DIRECT
+
+# > 论坛
+DOMAIN,52pojie.cn,DIRECT    #52破解
+DOMAIN,mcbbs.net,DIRECT     #mcbbs
+
+# > CDN
+DOMAIN,blogcdn.net,DIRECT   #blogcdn
