@@ -13,11 +13,11 @@
 ##- REJECT   (拒绝)
 
 # > 个人网站
-DOMAIN,v4.baey.top
+DOMAIN,v4.baey.top  #个人网站
 
 # > 论坛
-DOMAIN,52pojie.cn
-DOMAIN,mcbbs.net
+DOMAIN,52pojie.cn  #52破解
+DOMAIN,mcbbs.net   #mcbbs
 
 # > CDN
-DOMAIN,blogcdn.net
+DOMAIN,blogcdn.net  #免费CDN
