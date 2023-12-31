@@ -13,14 +13,19 @@
 ##- REJECT   (拒绝)
 
 # > 个人网站
-DOMAIN,v4.baey.top  #个人网站
+  #个人网站
+DOMAIN,v4.baey.top
 
 # > 论坛
-DOMAIN,52pojie.cn  #52破解
-DOMAIN,mcbbs.net   #mcbbs
+  #52破解
+DOMAIN,52pojie.cn
+  #mcbbs
+DOMAIN,mcbbs.net
 
 # > CDN
-DOMAIN,blogcdn.net  #免费CDN
+  #免费CDN
+DOMAIN,blogcdn.net
 
 # > 加速
-DOMAIN,ghproxy.com  #Github代理加速
+  #Github代理加速
+DOMAIN,ghproxy.com
