@@ -15,4 +15,5 @@
 # > GoogleVoice
 ;DOMAIN-KEYWORD,googleapis.com
 DOMAIN,peoplestack-pa.googleapis.com
-DOMAIN,oauth2.googleapis.com:443
+DOMAIN,oauth2.googleapis.com
+DOMAIN,oauthaccountmanager.googleapis.com
