@@ -32,7 +32,7 @@ DOMAIN-KEYWORD,ghproxy.com
 DOMAIN-KEYWORD,smallstrawberry.com
 
 # > 中国广电
-DOMAIN-SUFFIX,10099.com.cn
+DOMAIN-KEYWORD,10099
 
 # > 排序在上的规则优先生效
 SRC-IP-CIDR,192.168.1.2/31
