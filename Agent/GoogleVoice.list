@@ -13,7 +13,6 @@
 ##- REJECT   (拒绝)
 
 # > GoogleVoice
-;DOMAIN-KEYWORD,googleapis.com
-DOMAIN,peoplestack-pa.googleapis.com
-DOMAIN,oauth2.googleapis.com
-DOMAIN,oauthaccountmanager.googleapis.com
+DOMAIN-KEYWORD,googleapis.com
+
+
