@@ -24,6 +24,7 @@ DOMAIN-KEYWORD,mcbbs.net
 
 # > CDN
 DOMAIN-KEYWORD,blogcdn.net
+DOMAIN-KEYWORD,api.wdnmd.uk
 
 # > 加速
 DOMAIN-KEYWORD,ghproxy.com
